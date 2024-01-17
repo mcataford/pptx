@@ -13,6 +13,10 @@ This repository uses the [Scripts to Rule Them All](https://github.com/github/sc
 utility scripts to manage dependencies, format and test are in the `script` directory. `. script/bootstrap` will install
 the dependencies you need to get started.
 
+### XML source format
+
+XML tags referred to throughout the codebase are described in the [glossary](./docs/GLOSSARY.md).
+
 ## Contributing
 
 Contributions are not expected until the layout / patterns / plans are a little more stable.
