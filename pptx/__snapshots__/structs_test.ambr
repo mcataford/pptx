@@ -1,0 +1,10 @@
+# serializer version: 1
+# name: test_extracts_text_runs_from_shape_with_text
+  'Sample text'
+# ---
+# name: test_extracts_text_runs_from_shape_with_text.1
+  dict({
+    'lang': 'en-CA',
+    'sz': '1800',
+  })
+# ---

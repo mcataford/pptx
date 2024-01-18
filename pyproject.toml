@@ -1,0 +1,15 @@
+[project]
+name = "pptx"
+version = "0.0.0"
+requires-python = ">= 3.8"
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+    "ruff",
+    "pytest",
+    "syrupy",
+]
+
+[tool.setuptools]
+packages = ["pptx"]
