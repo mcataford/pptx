@@ -1,0 +1,4 @@
+#!/bin/bash
+
+. script/format.sh
+. script/test.sh

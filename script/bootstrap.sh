@@ -6,3 +6,6 @@ python -m venv .venv
 
 pip install -U pip pip-tools
 pip-sync requirements_dev.txt
+
+cp .github/pre-commit .git/hooks/
+chmod +x .git/hooks/pre-commit
