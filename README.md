@@ -1,6 +1,10 @@
 # pptx
 Deep into the XML abyss
 
+> # ✈️ Moved away!
+>
+> This project has moved away from Github and is now hosted [elsewhere](https://forge.karnov.club/marc/pptx).
+
 ## Overview
 
 This package takes a stab at PPTX manipulation out of curiosity for implementing against an open format and try to
